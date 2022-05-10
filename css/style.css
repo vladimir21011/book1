@@ -1,0 +1,146 @@
+*,
+*::after,
+*::before{padding: 0; margin: 0; border:0; box-sizing: border-box;}
+body{
+    background-color: rgba(255, 255, 255, 0.651);
+    font-family: 'Orelega One', cursive;}
+.uphader{
+    max-width: 1500px; 
+    /* outline: 2px solid red; */
+    /* background-color: #fff; */
+    margin: 0 auto;
+    text-align:center;
+    background-image: url(../img/header_img_2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    color: black;
+    padding: 50px 50px;}
+.glava{
+    max-width: 1500px;}
+.hader h1{
+    max-width: 500px;
+    margin: 30px auto;
+    text-align:center;
+    background-color: rgb(218, 231, 29);
+    border-radius: 20px;}
+.one1 li{
+    display: inline;
+    max-width: 1500px;
+    display: inline-block;
+    margin: 20px;}
+.meny{
+    text-align:center;}
+.one1 li a{
+    background-color: rgb(117, 247, 11);
+    padding: 5px 5px;
+    border-radius: 20px 0 20px 0;
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+    transition: 0.4s;}
+.one1 li a:hover 
+    {background-color: rgb(46, 90, 92);
+    border-radius: 0 20px 0 20px;
+    color:rgb(221, 216, 216);
+    transition: 0.4s;}
+.one2 li{
+    display: inline;
+    margin: 20px;}
+.one2 li a{
+    background-color: rgb(11, 239, 247);
+    padding: 5px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+    transition: 0.4s;}
+.one2 li a:hover{
+    background-color: rgb(46, 90, 92);
+    border-radius: 15px;
+    color:rgb(221, 216, 216);}
+.point1 h2{
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(91, 216, 199);
+    border-radius: 10px 10px 0 0}
+.point1{
+    max-width: 1200px; 
+    margin: 30px auto;
+    text-align:justify;}
+.point1 img{
+    width: 100%;
+    opacity: 1;
+    transition: 0.4s;} 
+.point1 img:hover{
+    /* opacity: 0.5; */
+    border-radius: 500px;}
+.point2 h2{
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(91, 216, 199);
+    border-radius: 10px 10px 0 0}
+.point2{
+    max-width: 1200px; 
+    margin: 30px auto;
+    text-align:justify;}
+.point2 img{
+    width: 100%;
+    opacity: 1;
+    transition: 0.4s;
+    border-radius: 150px;}
+.point3 h2{
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(91, 216, 199);
+    border-radius: 10px 10px 0 0}
+.point3{
+    max-width: 1200px; 
+    margin: 30px auto;
+    text-align:justify;}
+.point3 img{
+    width: 100%;
+    opacity: 1;
+    transition: 0.4s;
+    border-radius: 150px;}
+.point4 h2{
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(91, 216, 199);
+    border-radius: 10px 10px 0 0}
+.point4{
+    max-width: 1200px; 
+    margin: 30px auto;
+    text-align:justify;}
+.point4 img{
+    width: 100%;
+    opacity: 1;
+    transition: 0.4s;
+    border-radius: 150px;}
+.point5 h2{
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(91, 216, 199);
+    border-radius: 10px 10px 0 0}
+.point5{
+    max-width: 1200px; 
+    margin: 30px auto;
+    text-align:justify;}
+.point5 img{
+    width: 100%;
+    transition: 0.4s;
+    border-radius: 150px;}
+.up{
+    text-align: center;}
+a{
+    max-width: 1200px;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(70, 214, 113);
+    padding: 10px;
+    border-radius: 0 10px 0 10px;
+    color: black;}
+a:hover{
+    background-color: rgb(23, 36, 27);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;}
